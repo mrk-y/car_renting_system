@@ -1,0 +1,35 @@
+C:\Users\Johnlean\source\repos\CRS-NAVBAR\bin\Debug\net8.0-windows\CRS-NAVBAR.exe
+C:\Users\Johnlean\source\repos\CRS-NAVBAR\bin\Debug\net8.0-windows\CRS-NAVBAR.deps.json
+C:\Users\Johnlean\source\repos\CRS-NAVBAR\bin\Debug\net8.0-windows\CRS-NAVBAR.runtimeconfig.json
+C:\Users\Johnlean\source\repos\CRS-NAVBAR\bin\Debug\net8.0-windows\CRS-NAVBAR.dll
+C:\Users\Johnlean\source\repos\CRS-NAVBAR\bin\Debug\net8.0-windows\CRS-NAVBAR.pdb
+C:\Users\Johnlean\source\repos\CRS-NAVBAR\obj\Debug\net8.0-windows\CRS_NAVBAR.Form1.resources
+C:\Users\Johnlean\source\repos\CRS-NAVBAR\obj\Debug\net8.0-windows\CRS-NAVBAR.vbproj.GenerateResource.cache
+C:\Users\Johnlean\source\repos\CRS-NAVBAR\obj\Debug\net8.0-windows\CRS-NAVBAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johnlean\source\repos\CRS-NAVBAR\obj\Debug\net8.0-windows\CRS-NAVBAR.AssemblyInfoInputs.cache
+C:\Users\Johnlean\source\repos\CRS-NAVBAR\obj\Debug\net8.0-windows\CRS-NAVBAR.AssemblyInfo.vb
+C:\Users\Johnlean\source\repos\CRS-NAVBAR\obj\Debug\net8.0-windows\CRS-NAVBAR.vbproj.CoreCompileInputs.cache
+C:\Users\Johnlean\source\repos\CRS-NAVBAR\obj\Debug\net8.0-windows\CRS-NAVBAR.dll
+C:\Users\Johnlean\source\repos\CRS-NAVBAR\obj\Debug\net8.0-windows\refint\CRS-NAVBAR.dll
+C:\Users\Johnlean\source\repos\CRS-NAVBAR\obj\Debug\net8.0-windows\CRS-NAVBAR.pdb
+C:\Users\Johnlean\source\repos\CRS-NAVBAR\obj\Debug\net8.0-windows\CRS-NAVBAR.genruntimeconfig.cache
+C:\Users\Johnlean\source\repos\CRS-NAVBAR\obj\Debug\net8.0-windows\ref\CRS-NAVBAR.dll
+C:\Users\Johnlean\source\repos\CRS-NAVBAR\obj\Debug\net8.0-windows\CRS_NAVBAR.Form2.resources
+C:\Users\Lean\OneDrive\Desktop\VBnet\CRS-NAVBAR [8.10.25]\bin\Debug\net8.0-windows\CRS-NAVBAR.exe
+C:\Users\Lean\OneDrive\Desktop\VBnet\CRS-NAVBAR [8.10.25]\bin\Debug\net8.0-windows\CRS-NAVBAR.deps.json
+C:\Users\Lean\OneDrive\Desktop\VBnet\CRS-NAVBAR [8.10.25]\bin\Debug\net8.0-windows\CRS-NAVBAR.runtimeconfig.json
+C:\Users\Lean\OneDrive\Desktop\VBnet\CRS-NAVBAR [8.10.25]\bin\Debug\net8.0-windows\CRS-NAVBAR.dll
+C:\Users\Lean\OneDrive\Desktop\VBnet\CRS-NAVBAR [8.10.25]\bin\Debug\net8.0-windows\CRS-NAVBAR.pdb
+C:\Users\Lean\OneDrive\Desktop\VBnet\CRS-NAVBAR [8.10.25]\obj\Debug\net8.0-windows\CRS_NAVBAR.Form1.resources
+C:\Users\Lean\OneDrive\Desktop\VBnet\CRS-NAVBAR [8.10.25]\obj\Debug\net8.0-windows\CRS_NAVBAR.Form2.resources
+C:\Users\Lean\OneDrive\Desktop\VBnet\CRS-NAVBAR [8.10.25]\obj\Debug\net8.0-windows\CRS-NAVBAR.vbproj.GenerateResource.cache
+C:\Users\Lean\OneDrive\Desktop\VBnet\CRS-NAVBAR [8.10.25]\obj\Debug\net8.0-windows\CRS-NAVBAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lean\OneDrive\Desktop\VBnet\CRS-NAVBAR [8.10.25]\obj\Debug\net8.0-windows\CRS-NAVBAR.AssemblyInfoInputs.cache
+C:\Users\Lean\OneDrive\Desktop\VBnet\CRS-NAVBAR [8.10.25]\obj\Debug\net8.0-windows\CRS-NAVBAR.AssemblyInfo.vb
+C:\Users\Lean\OneDrive\Desktop\VBnet\CRS-NAVBAR [8.10.25]\obj\Debug\net8.0-windows\CRS-NAVBAR.vbproj.CoreCompileInputs.cache
+C:\Users\Lean\OneDrive\Desktop\VBnet\CRS-NAVBAR [8.10.25]\obj\Debug\net8.0-windows\CRS-NAVBAR.dll
+C:\Users\Lean\OneDrive\Desktop\VBnet\CRS-NAVBAR [8.10.25]\obj\Debug\net8.0-windows\refint\CRS-NAVBAR.dll
+C:\Users\Lean\OneDrive\Desktop\VBnet\CRS-NAVBAR [8.10.25]\obj\Debug\net8.0-windows\CRS-NAVBAR.pdb
+C:\Users\Lean\OneDrive\Desktop\VBnet\CRS-NAVBAR [8.10.25]\obj\Debug\net8.0-windows\CRS-NAVBAR.genruntimeconfig.cache
+C:\Users\Lean\OneDrive\Desktop\VBnet\CRS-NAVBAR [8.10.25]\obj\Debug\net8.0-windows\ref\CRS-NAVBAR.dll
+C:\Users\Lean\OneDrive\Desktop\VBnet\CRS-NAVBAR [8.10.25]\obj\Debug\net8.0-windows\CRS_NAVBAR.Resources.resources
